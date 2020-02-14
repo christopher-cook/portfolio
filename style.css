@@ -142,8 +142,8 @@ span {
 .resume-container {
   width: 100%;
   height: 100%;
-  text-align: -webkit-center;
   padding-top: 15%;
+  padding-left: 20%;
 }
 .broom {
 padding-left: 62px;
